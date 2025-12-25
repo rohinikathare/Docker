@@ -360,3 +360,29 @@ git pull origin main
 rm -rf Docker-ci
 git clone https://github.com/username/Docker-ci.git
 git clone https://github.com/rohinikathare/Docker-ci.git
+git clone https://github.com/rohinikathare/Docker-CI.git
+vi index.html
+vi Dockerfile
+git init
+git .
+git add .
+git commit -m "Add index.html and dockerfile"
+git remote add origin https://github.com/rohinikathare/Docker-CI.git
+git push -u origin main
+git status
+mkdir docker-ci
+cd docker-ci
+git clone https://github.com/rohinikathare/Docker-CI.git
+vi index.html
+vi Dockerfile
+git add .
+git commit -m "add index.html and dockerfile"
+git push -u origin main
+cd ..
+git clone https://github.com/rohinikathare/Docker-CI.git
+vi index.html
+vi Dockerfile
+git add .
+git commit -m "add index.html and dockerfile"
+git push -u origin main
+git remote add origin https://github.com/rohinikathare/Docker-CI.git
