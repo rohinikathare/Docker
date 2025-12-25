@@ -1,0 +1,12 @@
+2025-12-25 07:27:39.374 [info] Started local extension host with pid 1557.
+2025-12-25 07:27:53.785 [warning] Creation of workbench contribution 'workbench.contrib.chatAgentSetting' took 360ms.
+2025-12-25 07:28:14.290 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-25 07:28:14.716 [warning] Creation of workbench contribution 'workbench.contrib.sash' took 138ms.
+2025-12-25 07:28:17.420 [warning] Creation of workbench contribution 'terminal.chatAgentTools' took 226ms.
+2025-12-25 07:28:18.311 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-25 07:28:34.736 [warning] Creation of workbench contribution 'chat.builtinTools' took 130ms.
+2025-12-25 07:28:38.222 [info] [perf] Render performance baseline is 101ms
+2025-12-25 07:36:41.586 [info] Extension host (LocalProcess pid: 1557) is unresponsive.
+2025-12-25 07:36:49.405 [info] Extension host (LocalProcess pid: 1557) is responsive.
+2025-12-25 07:36:51.551 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-12-25 07:36:52.239 [info] UNRESPONSIVE extension host: starting to profile NOW

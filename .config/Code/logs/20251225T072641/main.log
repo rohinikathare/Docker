@@ -1,0 +1,1113 @@
+2025-12-25 07:26:59.632 [info] update#setState idle
+2025-12-25 07:27:14.692 [error] CodeWindow: detected unresponsive
+2025-12-25 07:27:23.166 [info] update#setState checking for updates
+2025-12-25 07:27:24.811 [info] update#setState idle
+2025-12-25 07:27:37.747 [error] CodeWindow: recovered from unresponsive
+2025-12-25 07:32:10.172 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:34:41.241 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:36:48.885 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:38:31.513 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:39:09.944 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:39:50.848 [error] CodeWindow: detected unresponsive
+2025-12-25 07:40:29.608 [error] CodeWindow: recovered from unresponsive
+2025-12-25 07:40:33.997 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:34.748 [error] 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:16371
+2025-12-25 07:40:39.780 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:40.832 [error] 
+    at HTMLBodyElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:17664)
+2025-12-25 07:40:43.717 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:44.921 [error] 
+    at l.onmessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3905:12070)
+2025-12-25 07:40:48.141 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:49.108 [error] 
+    at ai.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78988)
+2025-12-25 07:40:50.965 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:51.652 [error] 
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:64654
+2025-12-25 07:40:52.765 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:53.208 [error] 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78504
+2025-12-25 07:40:54.203 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:54.510 [error] 
+    at HTMLDivElement.e (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:353070)
+2025-12-25 07:40:55.036 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:55.334 [error] 
+    at MessagePort.de (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:9496)
+2025-12-25 07:40:55.938 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:56.185 [error] 
+    at HTMLDocument.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:12866)
+2025-12-25 07:40:57.026 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:57.382 [error] 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:3973
+2025-12-25 07:40:58.546 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:58.825 [error] 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1388:4134
+2025-12-25 07:40:59.326 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:59.535 [error] 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:3220
+2025-12-25 07:40:59.831 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:40:59.925 [error] 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3024:45687
+2025-12-25 07:40:59.988 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:41:00.060 [error] 
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:367657)
+2025-12-25 07:41:00.067 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:41:00.068 [error] 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3856
+2025-12-25 07:41:00.068 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:41:00.068 [error] 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1388:4099
+2025-12-25 07:41:00.068 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:41:00.068 [error] 
+    at get value (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:227066)
+    at v.renderRows (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:63658)
+    at d._renderRows (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:110809)
+    at t.RenderDebouncer._renderCallback (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:108787)
+    at t.RenderDebouncer._innerRefresh (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:45846)
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:45544
+2025-12-25 07:41:00.068 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:41:00.068 [error] 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:16950
+2025-12-25 07:41:00.068 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:41:00.068 [error] 
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:36003)
+2025-12-25 07:41:00.068 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:41:00.068 [error] 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:74879
+2025-12-25 07:41:00.068 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:41:00.068 [error] 
+    at t.ColorZoneStore.clear (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:57558)
+    at u._refreshDecorations (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:63267)
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:64664
+2025-12-25 07:41:00.068 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:41:00.068 [error] 
+    at PerformanceObserver.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4149:1987)
+2025-12-25 07:41:00.068 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:41:00.068 [error] 
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:45535
+2025-12-25 07:41:00.068 [error] [uncaught exception in main]: UnresponsiveSampleError: UnresponsiveSampleError: from window with ID 1 belonging to process with pid 1457
+2025-12-25 07:41:00.068 [error] 
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:75:18564)
+2025-12-25 07:41:00.158 [error] CodeWindow unresponsive samples:
+<36> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:16371
+<18> 
+    at HTMLBodyElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:17664)
+<17> 
+    at l.onmessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3905:12070)
+<11> 
+    at ai.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78988)
+<10> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:64654
+<10> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78504
+<10> 
+    at HTMLDivElement.e (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:353070)
+<9> 
+    at MessagePort.de (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:9496)
+<8> 
+    at HTMLDocument.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:12866)
+<6> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:3973
+<6> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1388:4134
+<6> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:3220
+<6> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3024:45687
+<6> 
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:367657)
+<5> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3856
+<5> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1388:4099
+<5> 
+    at get value (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:227066)
+    at v.renderRows (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:63658)
+    at d._renderRows (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:110809)
+    at t.RenderDebouncer._renderCallback (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:108787)
+    at t.RenderDebouncer._innerRefresh (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:45846)
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:45544
+<5> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:16950
+<5> 
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:36003)
+<5> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:74879
+<4> 
+    at t.ColorZoneStore.clear (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:57558)
+    at u._refreshDecorations (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:63267)
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:64664
+<4> 
+    at PerformanceObserver.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4149:1987)
+<4> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:45535
+<4> 
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:75:18564)
+<3> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78087
+<3> 
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:75:18621)
+<3> 
+    at HTMLLIElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:11833)
+<3> 
+    at t.RenderDebouncer._runRefreshCallbacks (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:45915)
+    at t.RenderDebouncer._innerRefresh (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:45872)
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:45544
+<3> 
+    at M8t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:426:3831)
+    at WCt.computeLabel (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2868:10639)
+    at WCt.refreshLabel (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2868:8795)
+    at Ze (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2866:20842)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7063)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+    at GTe.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2727:107)
+    at GTe.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2722:1182)
+<2> 
+    at f8 (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:412)
+    at s4i.dispose (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:1457)
+    at Bp.dispose (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:2269)
+    at Bp.dispose (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:12905)
+    at He (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:750)
+    at gs.clear (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:20524)
+    at Rc.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:63958)
+    at Rc.setActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:62134)
+    at Rc.setActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:121863)
+    at Hte.hb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:707:31028)
+<2> 
+    at Dt (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7605)
+<2> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:75:13592
+<2> 
+    at HTMLDivElement.o (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:12735)
+<2> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:17630
+<2> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2866:32107
+<2> 
+    at Object.entries (<anonymous>)
+    at Ii (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:38:56463)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:38:56519
+    at Array.forEach (<anonymous>)
+    at Ii (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:38:56474)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:38:56519
+    at Array.forEach (<anonymous>)
+    at Ii (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:38:56474)
+    at n (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3851:12275)
+    at L2.k (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3851:12421)
+<2> 
+    at get zones (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:57458)
+    at u._refreshDecorations (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:63442)
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:64664
+<2> 
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427544)
+    at l._refreshStyle (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:56688)
+    at l._renderDecoration (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:55086)
+    at l._doRefreshDecorations (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:55012)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:54097)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+    at m._deliverQueue (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427503)
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427838)
+    at d._renderRows (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:111083)
+    at t.RenderDebouncer._renderCallback (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:108787)
+<2> 
+    at get byteLength (<anonymous>)
+    at new jk (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:92837)
+    at jk.fromString (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:92395)
+    at Bj (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:565:96418)
+    at Bj (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:565:96730)
+    at mni.q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:1092)
+    at mni.p (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:825)
+    at f (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:112)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:146
+    at new Promise (<anonymous>)
+<2> 
+    at KCt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2870:21547)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2870:20521)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Dt (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7658)
+<2> 
+    at HTMLBodyElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:17588)
+<1> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1:1
+<1> 
+    at qc.setScrollDimensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:75:37328)
+    at qc.scanDomNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:75:42381)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3629:5017)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+    at akt.setEntries (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3629:6169)
+    at akt.rerender (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3629:5425)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3629:5173)
+    at Tb.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+<1> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3:10791
+    at String.replace (<anonymous>)
+    at rce (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3:10770)
+    at d (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3:11026)
+    at jrs (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:119694)
+    at qY.createActionGroups (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:117391)
+    at Zue.getActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:119425)
+    at $ve.m (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:579:57305)
+    at $ve.getPrimaryActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:579:57365)
+    at Oae.$b (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:585:2026)
+<1> 
+    at m._event [as onChangeColors] (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:425510)
+    at new v (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:57509)
+    at l.activate (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:246194)
+    at t.AddonManager.loadAddon (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:256821)
+    at u.loadAddon (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:486032)
+    at sz.sb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2732:7261)
+<1> 
+    at QRt.writeUInt32 (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:41922)
+    at QRt.alloc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:41626)
+    at Hk.serializeAcknowledged (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:45817)
+    at YRt.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:39719)
+    at YRt.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:38782)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37574)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Vj.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:10350)
+    at l.onmessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3905:12084)
+<1> 
+    at Hce.joinPath (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:68285)
+    at YNe.w (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3863:24521)
+    at YNe.u (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3863:24176)
+    at YNe.scanExtension (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3863:22842)
+    at async Promise.all (index 93)
+    at async YNe.q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3863:20686)
+    at async YNe.N (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3863:27154)
+<1> 
+    at eKi (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:143489)
+    at YT (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:143334)
+    at u2s.removeRulesContainingSelector (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:22656)
+    at kCe.k (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:27842)
+    at kCe.dispose (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:26693)
+    at He (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:750)
+    at s4i.clear (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:1552)
+    at s4i.dispose (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:1481)
+    at g2s.dispose (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:25360)
+    at hXe.removeDecorationType (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:20877)
+<1> 
+    at new UBs (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:198)
+    at Bet.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:5764)
+    at async Bet.U (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:6021)
+    at async JQi.j (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:78:88962)
+    at async KQi.getOrCreate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:78:88397)
+<1> 
+    at xee (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:565:96909)
+    at xee (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:565:97158)
+    at lDs.q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:565:97905)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:565:97417)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+    at MessagePort.de (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:9508)
+<1> 
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:503:26355)
+<1> 
+    at i.None [as onCancellationRequested] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:6126)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:269
+    at new Promise (<anonymous>)
+    at mni.m (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:566:1594)
+    at Object.call (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:566:1384)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:2147
+<1> 
+    at POe.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3687)
+    at POe.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3905)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:119054)
+    at Tb.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at Tb.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Tb.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3732)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:28258)
+    at Tb.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at Tb.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at Tb.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+<1> 
+    at AWe (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:119931)
+    at qY.createActionGroups (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:117438)
+    at Zue.getActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:119425)
+    at cCe.sb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1231:18585)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1231:19923)
+    at POe.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at POe.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at POe.resume (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3603)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3880
+<1> 
+    at Array.forEach (<anonymous>)
+    at qh.render (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:11808)
+    at qh.render (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:13078)
+    at qh.render (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:108604)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:19658
+    at Array.forEach (<anonymous>)
+    at gs.push (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:19227)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:62368
+    at Array.forEach (<anonymous>)
+    at Rc.setActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:62349)
+<1> 
+    at f8 (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:412)
+    at s4i.dispose (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:1457)
+    at KCt.dispose (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:2269)
+    at KCt.dispose (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:12905)
+    at Wi.set (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:3970)
+    at zCt.createActionViewItem (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2870:17470)
+    at Object.actionViewItemProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:580:3395)
+    at Object.actionViewItemProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:60889)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:19461
+    at Array.forEach (<anonymous>)
+<1> 
+    at Array Iterator.next (<anonymous>)
+    at gs.push (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:19862)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:62368
+    at Array.forEach (<anonymous>)
+    at Rc.setActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:62349)
+    at Rc.setActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:121863)
+    at Ikt.$b (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:585:2103)
+    at Ikt.bc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:585:2360)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:580:2518)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+<1> 
+    at Sve (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:578:16870)
+    at QMt.invokeFunction (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1402:674)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:578:18970
+    at XNt.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:79777)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:79840
+<1> 
+    at POe.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3687)
+    at POe.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:3905)
+    at ai.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:118399)
+    at ai.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:79034)
+    at ai.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:79018)
+<1> 
+    at g.addGlyph (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:54754)
+    at f._drawToCache (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:53430)
+    at Array.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:40238)
+    at t.IdleTaskQueue._process (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:84809)
+<1> 
+    at t.IdleTaskQueue._start (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:84573)
+    at t.IdleTaskQueue._process (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:85008)
+<1> 
+    at String.charCodeAt (<anonymous>)
+    at f._drawToCache (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:46292)
+    at Array.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:40238)
+    at t.IdleTaskQueue._process (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:84809)
+<1> 
+    at Map.set (<anonymous>)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:98997
+    at Array.map (<anonymous>)
+    at RQe.N (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:98979)
+    at RQe.addComposite (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:97256)
+    at sCe.Y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:822:645)
+    at sCe.P (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:107587)
+    at sCe.I (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:106532)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:105988)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+<1> 
+    at Object.call (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:566:1340)
+    at agi.updateItems (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1361:60489)
+    at W5i.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:69109)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:69338
+    at bm.queue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:73071)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:74420
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:74065
+<1> 
+    at pVs.getContextValuesContainer (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:28387)
+    at pVs.contextMatchesRules (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:26319)
+    at qY.createActionGroups (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:117271)
+    at Zue.getActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:119425)
+    at $ve.m (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:579:57305)
+    at $ve.getPrimaryActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:579:57365)
+    at o_.$b (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:585:2026)
+    at o_.bc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:585:2360)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:580:2518)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+<1> 
+    at g.onmessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:564:15379)
+<1> 
+    at cEt.n (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:46843)
+    at cEt.j (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:45367)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:44555
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:74065
+<1> 
+    at Map.get (<anonymous>)
+    at AFe.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:503:27202)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:503:26400)
+<1> 
+    at new <anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2870:16882)
+    at zCt.createActionViewItem (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2870:16850)
+    at jd.getActionViewItem (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:13001)
+    at n.getActionViewItem (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:691:8167)
+    at rCe.Pb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:92790)
+    at Object.actionViewItemProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:92046)
+    at Object.actionViewItemProvider (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:60889)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:19461
+    at Array.forEach (<anonymous>)
+    at gs.push (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:19227)
+<1> 
+    at Object.assign (<anonymous>)
+    at cEt.j (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:45146)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:44555
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:74065
+<1> 
+    at new Set (<anonymous>)
+    at br (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:142405)
+    at new ryt (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2801:634)
+    at QMt.o (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1402:1580)
+    at QMt.createInstance (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1402:1077)
+    at AFe.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:503:26722)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:503:26400)
+<1> 
+    at Rc.getItemsLength (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:62048)
+    at rCe.Fc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:822:13066)
+    at rCe.Dc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:822:12802)
+    at rCe.Fb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:822:11379)
+    at rCe.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:90105)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at n.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:539:35035)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1361:132757
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7063)
+<1> 
+    at Array.isArray (<anonymous>)
+    at m (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:566:1817)
+    at mni.t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:1530)
+    at mni.s (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:1423)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:566:1287)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+    at de (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:9291)
+<1> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3040:19457
+<1> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3850:25281
+<1> 
+    at String.matchAll (<anonymous>)
+    at YR.Vc (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2866:38529)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2866:27928)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2864:9556)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2866:5044)
+<1> 
+    at t.InstantiationService.createInstance (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:272033)
+    at x.open (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:21298)
+    at u.open (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:484383)
+    at Dz.U (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3015:158)
+    at Dz.O (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3013:6946)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:75:13599
+<1> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1301:17481
+<1> 
+    at i.setTop (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:317621)
+    at o._updateSlider (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:365599)
+    at o.render (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:340685)
+    at o._onElementScrollSize (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:340137)
+    at o.onDidScroll (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:365774)
+    at t.SmoothScrollableElement._onDidScroll (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:354801)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:349311)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427731)
+    at a._setState (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:473189)
+<1> 
+    at new VOi (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:35628)
+    at YRt.U (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:41066)
+    at n.<computed>.o.charCodeAt.n.<computed> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:38337)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:536:2042
+<1> 
+    at JEt.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:78:37065)
+    at JEt.updateStyles (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3859:24598)
+    at JEt.updateStyles (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3859:32283)
+    at JEt.Ob (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3859:19318)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3859:19104)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:6919
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7063)
+<1> 
+    at Array.map (<anonymous>)
+    at get selectionText (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:116349)
+    at m.refresh (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:116697)
+    at m._handleMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:122021)
+    at HTMLDocument._mouseMoveListener (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:114690)
+<1> 
+    at new Dle (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:5771)
+    at wQe.layout (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:9217)
+    at $F.layout (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:31160)
+    at Vf.y (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:703:38231)
+    at Vf.layout (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:703:38079)
+    at lhs.layout (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:431:50990)
+    at Om.U (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:431:62991)
+    at Om.layout (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:431:56561)
+    at Jle.layout (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:703:31688)
+    at L6i.layout (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:703:40369)
+<1> 
+    at new P6e (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:427:145825)
+    at new Let (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:83678)
+    at QMt.o (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1402:1580)
+    at QMt.createInstance (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1402:1077)
+    at Tet.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:94562)
+    at Tet.showDelayedHover (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:93455)
+    at HTMLLIElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:93998)
+<1> 
+    at new r4i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:12109)
+    at r4i.create (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:12077)
+    at Ket.u (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:1377)
+    at pVs.n (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:28163)
+    at new pVs (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:27911)
+    at Ket.createScoped (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:26070)
+    at new LGe (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:579:57655)
+    at QMt.o (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1402:1580)
+    at QMt.createInstance (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1402:1077)
+    at jd.create (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:602:9775)
+<1> 
+    at f8 (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:412)
+    at s4i.dispose (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:1457)
+    at qh.dispose (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:2269)
+    at qh.dispose (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:12905)
+    at He (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:750)
+    at gs.clear (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:20524)
+    at Rc.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:63958)
+    at Rc.setActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:62134)
+    at Rc.setActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:121863)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:91528
+<1> 
+    at Let.eb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:88600)
+    at Let.layout (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:87244)
+    at Let.render (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:86822)
+    at LBs.render (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:98799)
+    at HMt.show (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:822:24020)
+    at f0e.showContextView (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:91343)
+    at Tet.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:95850)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:93652
+<1> 
+    at DGe.relayout (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:579:55351)
+    at Mc.render (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:585:2645)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:19658
+    at Array.forEach (<anonymous>)
+    at gs.push (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:19227)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:62368
+    at Array.forEach (<anonymous>)
+    at Rc.setActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:62349)
+    at Rc.setActions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:121863)
+    at Iyt.$b (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:585:2103)
+<1> 
+    at Ic.toString (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:70:149911)
+    at wJe.W (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:687:7878)
+    at wJe.N (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:687:14739)
+    at wJe.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:10956)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:10889)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+    at nCe.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:28009)
+    at nCe.deactivate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:687:6815)
+<1> 
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427544)
+    at l._refreshStyle (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:56026)
+    at l._renderDecoration (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:55086)
+    at l._doRefreshDecorations (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:55012)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:54097)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+    at m._deliverQueue (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427503)
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427838)
+    at d._renderRows (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:111083)
+    at t.RenderDebouncer._renderCallback (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:108787)
+<1> 
+    at HTMLUListElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:861:1840)
+<1> 
+    at u.focus (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:484245)
+    at YR.focus (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2866:34002)
+    at QR.s (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3010:1426)
+    at async QR.paste (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3010:1140)
+    at async mCt.u (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2843:24062)
+    at async mCt.run (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:28305)
+<1> 
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2870:11340)
+<1> 
+    at a (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-serialize/lib/addon-serialize.js:1:6976)
+    at u._diffStyle (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-serialize/lib/addon-serialize.js:1:9237)
+    at u._nextCell (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-serialize/lib/addon-serialize.js:1:10258)
+    at u.serialize (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-serialize/lib/addon-serialize.js:1:6511)
+    at t.SerializeAddon._serializeBufferByRange (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-serialize/lib/addon-serialize.js:1:12134)
+    at t.SerializeAddon._serializeBufferByScrollback (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-serialize/lib/addon-serialize.js:1:12031)
+    at t.SerializeAddon.serialize (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-serialize/lib/addon-serialize.js:1:13645)
+    at Dz.S (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3013:8042)
+    at Dz.R (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3013:7339)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3013:7101
+<1> 
+    at Pr (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:7984)
+    at ac (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:8895)
+    at get hasFocus (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2866:15976)
+    at get activeInstance (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2868:25236)
+    at Object.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1402:3836)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2872:2858)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+    at m._deliverQueue (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427503)
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427838)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:422145)
+<1> 
+    at get byteLength (<anonymous>)
+    at new jk (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:92837)
+    at jk.fromString (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:92395)
+    at Hk.b (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:44948)
+    at Hk.serializeRequest (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:44861)
+    at YRt.U (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:41261)
+    at n.<computed>.o.charCodeAt.n.<computed> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:38337)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:577:1443)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+<1> 
+    at ResizeObserver.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:23091)
+<1> 
+    at JSON.stringify (<anonymous>)
+    at Jk.bqi [as d] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:102514)
+    at Jk.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:53799)
+    at UBe.isAnnouncementEnabled (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:290:32617)
+    at UBe.playSignal (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:290:30955)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2866:27741)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427731)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:12591)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+<1> 
+    at Map.get (<anonymous>)
+    at n.getZoomFactor (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:284556)
+    at t.getZoomFactor (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:283474)
+    at S.acceptStandardWheelEvent (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:346161)
+    at t.SmoothScrollableElement._onMouseWheel (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:353323)
+    at HTMLDivElement.e (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:353079)
+<1> 
+    at Array.push (<anonymous>)
+    at xee (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:565:97153)
+    at mni.s (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:1211)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:566:1287)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+    at MessagePort.de (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:9508)
+<1> 
+    at IntersectionObserver.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:110050)
+<1> 
+    at zo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:511:2836)
+    at jx (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:511:1578)
+    at oSs.getOriginalUri (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:511:5099)
+    at Avt.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2766:5454)
+    at Object.getGroupContextKeyValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2766:5214)
+    at MQe.xb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:88501)
+    at t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:87989)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:88030)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+<1> 
+    at lLi (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2730:1767)
+    at Oon.H (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2729:23862)
+    at Oon.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2729:21885)
+    at t.OscHandler._handler (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2729:21027)
+    at t.OscHandler.end (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:253797)
+    at t.OscParser.end (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:253116)
+    at h.parse (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:251101)
+    at D.parse (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:161178)
+    at n._action (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:144708)
+    at n._innerWrite (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:236946)
+<1> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:237492
+<1> 
+    at D.print (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:161708)
+    at h._printHandler (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:151515)
+    at h.parse (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:249313)
+    at D.parse (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:161178)
+    at n._action (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:144708)
+    at n._innerWrite (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:236946)
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:237501
+<1> 
+    at n1n (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3859:37560)
+    at s1n (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3859:37192)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3859:38498
+    at ZEt.c (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:514:10759)
+    at ZEt.request (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3859:38490)
+    at Gje.l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:515:68331)
+    at Gje.k (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:515:68185)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:515:68295
+<1> 
+    at Array Iterator.next (<anonymous>)
+    at zmt.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2730:7431)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2730:6946)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427731)
+    at l._refreshStyle (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:56688)
+    at l._renderDecoration (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:55086)
+    at l._doRefreshDecorations (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:55012)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:54097)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+<1> 
+    at c._handleMouseMove (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:36381)
+<1> 
+    at v._updateModel (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:64130)
+    at v.renderRows (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:63570)
+    at d._renderRows (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:110809)
+    at t.RenderDebouncer._renderCallback (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:108787)
+    at t.RenderDebouncer._innerRefresh (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:45846)
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:45544
+<1> 
+    at get exitCode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2720:579)
+    at D0i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2034:1077)
+    at zmt.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2730:7667)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2730:6946)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427731)
+    at l._refreshStyle (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:56688)
+    at l._renderDecoration (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:55086)
+    at l._doRefreshDecorations (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:55012)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:54097)
+<1> 
+    at String.charCodeAt (<anonymous>)
+    at f._drawToCache (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:46292)
+    at f._getFromCacheMap (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:42438)
+    at f.getRasterizedGlyph (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:42326)
+    at f._updateCell (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:28403)
+    at f.updateCell (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:28130)
+    at v._updateModel (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:66702)
+    at v.renderRows (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/addon-webgl/lib/addon-webgl.js:1:63570)
+    at d._renderRows (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:110809)
+    at t.RenderDebouncer._renderCallback (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:108787)
+<1> 
+    at wrs.reset (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:70043)
+    at Wle.d (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:74567)
+    at Wle.has (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:74738)
+    at GMt.getValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:24373)
+    at zet.getValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1364:23439)
+    at b4i.evaluate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:37:2610)
+    at gG.evaluate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:37:10493)
+    at GH.evaluate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:37:12253)
+    at JFe.p (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1322:11855)
+    at JFe.o (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1322:11797)
+<1> 
+    at ai.schedule (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:78796)
+    at YRt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37866)
+    at YRt.U (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:41245)
+    at n.<computed>.o.charCodeAt.n.<computed> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:38337)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:564:27660)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:60492)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+<1> 
+    at String.replace (<anonymous>)
+    at rce (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3:10770)
+    at d (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3:11026)
+    at whe (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:38:43907)
+    at D0i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2034:1691)
+    at zmt.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2730:7667)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2730:6946)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427731)
+    at l._refreshStyle (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:56688)
+<1> 
+    at qc.setScrollDimensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:75:37328)
+    at qc.scanDomNode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:75:42381)
+    at new KFe (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:861:3107)
+    at Object.render (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3861:1700)
+    at HMt.show (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:822:24020)
+    at IBs.showContextView (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:91343)
+    at h1n.showContextMenu (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3861:1010)
+    at tDt.showContextMenu (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3861:3088)
+    at iDt.showContextMenu (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3861:4115)
+    at Vre (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2843:24268)
+<1> 
+    at $4.n (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:75:33021)
+    at $4.setScrollPositionNow (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:75:32066)
+    at qc.setScrollPosition (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:75:42277)
+    at KFe.R (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:861:4155)
+    at HTMLUListElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:861:2052)
+<1> 
+    at e.HTMLElement.focus (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:815:64311)
+    at FQe.focus (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:861:6088)
+    at KFe.R (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:418:22102)
+    at KFe.R (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:861:4118)
+    at HTMLUListElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:861:2052)
+<1> 
+    at RegExp.test (<anonymous>)
+    at Cji (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:57289)
+    at new U$e (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:58563)
+    at new E8 (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:60296)
+    at U$e.file (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:59345)
+    at Hce.dirname (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:68521)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:16215
+    at Array.some (<anonymous>)
+    at MNe.t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:16182)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:14991
+<1> 
+    at i.None [as onCancellationRequested] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:6126)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:269
+    at new Promise (<anonymous>)
+    at mni.m (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:566:1594)
+    at Object.call (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:566:1384)
+    at Proxy.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:3136)
+    at eDt.readText (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3859:39395)
+    at QR.paste (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3010:1166)
+    at run (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3011:1167)
+    at run (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2860:15280)
+<1> 
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7057)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+    at m._deliverQueue (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427503)
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427838)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:422145)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427731)
+    at n._innerWrite (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:237633)
+    at n.write (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:236669)
+    at x.write (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:144836)
+<1> 
+    at Pr (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:7984)
+    at oAt.q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:12534)
+    at oAt.m (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:12832)
+    at HTMLTextAreaElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:12987)
+<1> 
+    at get primary (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2860:751)
+    at KCt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2870:21359)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2870:20521)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Dt (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7658)
+<1> 
+    at YRt.O (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:40143)
+    at YRt.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:39131)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37574)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Vj.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:10350)
+    at l.onmessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3905:12084)
+<1> 
+    at String.match (<anonymous>)
+    at C1t.jb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3034:30605)
+    at async C1t.requestCompletions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3034:31617)
+<1> 
+    at Egn.m (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3030:4318)
+    at Egn.l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3030:4313)
+    at get items (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3030:3984)
+    at C1t.yb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3034:35825)
+    at C1t.jb (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3034:31127)
+    at async C1t.requestCompletions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3034:31617)
+<1> 
+    at get exitCode (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2720:579)
+    at D0i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2034:1221)
+    at zmt.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2730:7667)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2730:6946)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427731)
+    at l._refreshStyle (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:56688)
+    at l._renderDecoration (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:55086)
+    at l._doRefreshDecorations (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:55012)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:54097)
+<1> 
+    at set value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:2469)
+    at JCn.n (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:96488)
+    at ai.a (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:424:96354)
+    at ai.h (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:79034)
+    at ai.g (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:79018)
+<1> 
+    at YRt.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:39497)
+    at YRt.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:38782)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37574)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Vj.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:10350)
+    at l.onmessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3905:12084)
+<1> 
+    at Jo (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:3832)
+    at M5i.$ (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:293:15439)
+    at M5i.Z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:293:15285)
+    at M5i.splice (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:293:13743)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:291:96
+    at Array.forEach (<anonymous>)
+    at Lis.splice (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:291:83)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:336:7717
+    at XG.bufferEvents (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:5429)
+    at BMe.splice (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:336:7693)
+<1> 
+    at Promise.resolve (<anonymous>)
+    at YRt.Q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:40580)
+    at YRt.M (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:39681)
+    at YRt.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:38782)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3894:37574)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Vj.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:10350)
+    at l.onmessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3905:12084)
+<1> 
+    at get executingCommand (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2727:2726)
+    at WCt.computeLabel (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2868:9801)
+    at WCt.refreshLabel (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2868:8795)
+    at Ze (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2866:20842)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7063)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+    at GTe.J (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2722:1146)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2721:11888)
+<1> 
+    at new o4i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:11337)
+    at new E (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:442)
+    at Object.g [as debounce] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7893)
+    at Object.p [as accumulate] (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7974)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:577:1392)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:4591)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+<1> 
+    at Map.get (<anonymous>)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4139:15635)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at l (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:729)
+    at mni.t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:1530)
+    at mni.s (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:1423)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:566:1287)
+<1> 
+    at jk.fromString (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:92300)
+    at Bj (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:565:96817)
+    at Bj (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:565:96730)
+    at mni.q (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:1100)
+    at mni.p (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:825)
+    at f (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:112)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:146
+    at new Promise (<anonymous>)
+    at mni.m (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:566:1594)
+    at Object.call (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:566:1384)
+<1> 
+    at <anonymous>
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:6561)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3905:10431)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Dt (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7658)
+<1> 
+    at createScriptURL (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:564:12067)
+    at KVi.b (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:564:11573)
+    at KVi.createWorkerClient (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:564:11474)
+    at _Lt.d (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3919:262)
+    at _Lt.analyseByLocation (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3919:729)
+    at zLt.r (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3919:2181)
+<1> 
+    at HTMLLIElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:97343)
+<1> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:116655
+<1> 
+    at Array.map (<anonymous>)
+    at PerformanceObserver.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4149:2036)
+<1> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4149:2040
+    at Array.map (<anonymous>)
+    at PerformanceObserver.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4149:2036)
+<1> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:73597
+<1> 
+    at getWindow (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:1921)
+    at er (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:6922)
+    at HMt.s (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:822:25397)
+    at HMt.show (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:822:24057)
+    at IBs.showContextView (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:91343)
+    at h1n.showContextMenu (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3861:1010)
+    at tDt.showContextMenu (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3861:3088)
+    at iDt.showContextMenu (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3861:4115)
+    at Vre (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2843:24268)
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2870:10578)
+<1> 
+    at _Cn.getValue (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3853:30226)
+    at Yun (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3008:6940)
+    at QMt.invokeFunction (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1402:674)
+    at QR.s (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3010:1308)
+    at QR.paste (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3010:1151)
+    at async mCt.u (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2843:24062)
+    at async mCt.run (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:35:28305)
+<1> 
+    at String.padStart (<anonymous>)
+    at new o4i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:11367)
+    at new E (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:442)
+    at get onCancellationRequested (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:40293)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:74908
+    at new Promise (<anonymous>)
+    at ls (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:74840)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:74985
+    at Jn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:71478)
+    at ls (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:74979)
+<1> 
+    at Math.abs (<anonymous>)
+    at whe (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:38:43819)
+    at D0i (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2034:1691)
+    at zmt.db (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2730:7667)
+    at g.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2730:6946)
+    at m._deliver (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427397)
+    at m.fire (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:427731)
+    at l._refreshStyle (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:56688)
+    at l._renderDecoration (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:55086)
+    at l._doRefreshDecorations (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:55012)
+<1> 
+    at mni.t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:1455)
+    at mni.s (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:567:1423)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:566:1287)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.D (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2419)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2637)
+    at MessagePort.de (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:9508)
+<1> 
+    at [Symbol.hasInstance] (<anonymous>)
+    at Q$ (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:561:22079)
+    at KCt.F (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2870:21878)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2870:20521)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Dt (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7658)
+<1> 
+    at String.indexOf (<anonymous>)
+    at Oon.H (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2729:22401)
+    at Oon.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2729:21885)
+    at t.OscHandler._handler (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2729:21027)
+    at t.OscHandler.end (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:253797)
+    at t.OscParser.end (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:253116)
+    at h.parse (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:251101)
+    at D.parse (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:161178)
+    at n._action (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:144708)
+    at n._innerWrite (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:236946)
+<1> 
+    at Array.join (<anonymous>)
+    at Sce.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:577:1467)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2349)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2568)
+    at Dt (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:27:7658)
+<1> 
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1362:84331
+Total Samples: 353
+For full overview of the unresponsive period, capture cpu profile via https://aka.ms/vscode-tracing-cpu-profile
+2025-12-25 07:41:02.092 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:42:42.867 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:43:41.965 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:44:36.105 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:44:49.039 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:45:13.787 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:45:26.414 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:45:32.666 [error] CodeWindow: detected unresponsive
+2025-12-25 07:46:00.389 [error] CodeWindow: recovered from unresponsive
+2025-12-25 07:46:14.661 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:46:51.158 [error] CodeWindow: detected unresponsive
+2025-12-25 07:47:23.004 [error] CodeWindow: recovered from unresponsive
+2025-12-25 07:48:31.460 [error] CodeWindow: detected unresponsive

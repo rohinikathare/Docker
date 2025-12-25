@@ -1,0 +1,7 @@
+2025-12-25 07:18:47.698 [info] Extension host with pid 1794 started
+2025-12-25 07:18:47.702 [info] Skipping acquiring lock for /home/ubuntu/.config/Code/User/workspaceStorage/bcedb67e1f142f79d52e4131dfd80c88.
+2025-12-25 07:21:07.866 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-25 07:21:10.420 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-25 07:21:10.598 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-12-25 07:21:11.058 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-25 07:21:13.076 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'

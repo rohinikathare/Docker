@@ -1,0 +1,10 @@
+2025-12-25 07:18:00.778 [info] update#setState idle
+2025-12-25 07:18:15.958 [error] CodeWindow: detected unresponsive
+2025-12-25 07:18:22.980 [info] update#setState checking for updates
+2025-12-25 07:18:23.336 [info] update#setState idle
+2025-12-25 07:18:37.015 [error] CodeWindow: recovered from unresponsive
+2025-12-25 07:20:39.880 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:20:40.054 [error] CodeWindow: detected unresponsive
+2025-12-25 07:20:56.323 [error] CodeWindow: recovered from unresponsive
+2025-12-25 07:21:25.806 [warning] No ptyHost heartbeat after 6 seconds
+2025-12-25 07:22:18.951 [warning] No ptyHost heartbeat after 6 seconds
