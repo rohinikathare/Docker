@@ -211,3 +211,152 @@ git push origin main
 vi index.html
 ls
 git branch
+vi index.html
+git status
+git add index.html
+vi Dockerfile
+git add .
+df -h
+sudo apt clean
+docker system prune -af
+ls
+vi index.html
+vi Dockerfile
+git add .
+du -sh * | sort -h
+[200~rm path/to/large/file
+cd multicontainer-demo
+ls
+cd app
+ls
+cd ..
+git remote add origin https://github.com/rohinikathare/Docker.git
+git .
+git add .
+ls
+cd docker-app
+ls
+cd ..
+git add docker-app
+cd docker-app
+git add .
+git add docker-app
+df -h
+sudo apt clean
+sudo apt autoremove -y
+docker system prune -af
+docker volume prune -f
+cd ~/docker-app
+git status
+git add .
+git commit -m "Add docker app files"
+git push origin main
+git push origin master
+git branch
+git init
+git branch
+git checkout -b main
+git add .
+df -h
+docker system prune -af
+docker volume prune -f
+sudo apt clean
+sudo apt autoremove -y
+rm -rf ~/.npm
+sudo journalctl --vacuum-size=50M
+sudo rm -rf /var/log/*.log
+df -h
+cd ~/docker-app
+git add .
+git commit -m "Initial commit - docker app"
+git push -u origin main
+git checkout -b main
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+git remote add origin https://github.com/rohinikathare/Docker.git
+git push -u origin main
+git pull origin main --rebase
+git push origin main
+git mv .dockerignore Dockerfile index.js package.json package-lock.json README.md Project-1/
+cd ..
+git mv .dockerignore Dockerfile index.js package.json package-lock.json README.md Project-1/
+cd ~/docker-app
+mkdir -p Project-1
+git mv .dockerignore Dockerfile index.js package.json package-lock.json README.md Project-1/
+git status
+git commit -m "Move docker app files into Project-1 directory"
+git push origin main
+git pull origin main --rebase
+ls
+mv Project-1~HEAD/* Project-1/
+ls -l
+ls -l Project-1*
+git status
+interactive rebase in progress; onto 1923e57
+Last command done (1 command done):
+No commands remaining.
+You are currently rebasing branch 'main' on '1923e57'.
+Changes to be committed:
+Unmerged paths:
+cd ..
+ls
+git add .
+df -h
+du -h --max-depth=1 ~ | sort -h
+sudo apt clean
+sudo apt autoremove -y
+docker system prune -a --volumes -f
+rm -rf node_modules
+sudo journalctl --vacuum-size=100M
+rm -rf ~/.cache/*
+df -h
+git add .
+git commit -m "Add index.html"
+git push origin main
+git pull origin main --rebase
+git push origin main
+ubuntu@ip-172-31-38-230:~$ git push origin main
+Username for 'https://github.com': rohinikathare
+Password for 'https://rohinikathare@github.com':
+To https://github.com/rohinikathare/Docker.git
+error: failed to push some refs to 'https://github.com/rohinikathare/Docker.git'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+git pull origin main --rebase
+git status
+nano Dockerfile
+git add Dockerfile
+git add Docker docker-app
+git rebase --continue
+git push origin main
+git remote origin https://github.com/rohinikathare/Docker-Project.git
+git remote add origin https://github.com/rohinikathare/Docker-Project.git
+cd ~
+rm -rf Docker docker-app docker-ci docker-ci-demo multicontainer-demo Dockerfile README.md index.html results.json
+ls
+cd ~
+rm -rf Project-1 index.js package-lock.json package.json
+ls
+git remote add origin https://github.com/rohinikathare/Docker-ci.git
+vi index.html
+vi Dockerfile
+git add .
+git commit -m "Add index.html and dockerfile"
+git push origin main
+git clone https://github.com/rohinikathare/Docker-ci.git
+vi index.html
+vi Dockerfile
+git add .
+git commit -m "Add index.html and dockerfile"
+git push origin main
+git clone https://github.com/rohinikathare/Docker-ci.git
+cd Docker-ci
+git init
+git remote add origin https://github.com/username/Docker-ci.git
+git pull origin main
+rm -rf Docker-ci
+git clone https://github.com/username/Docker-ci.git
+git clone https://github.com/rohinikathare/Docker-ci.git
