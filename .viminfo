@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :q!
-|2,0,1766662740,,"q!"
+|2,0,1766663694,,"q!"
 :wq!
-|2,0,1766661795,,"wq!"
+|2,0,1766663159,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -28,33 +28,157 @@
 
 # File marks:
 '0  2  41  ~/Dockerfile
-|4,48,2,41,1766662740,"~/Dockerfile"
+|4,48,2,41,1766663694,"~/Dockerfile"
 '1  10  6  ~/index.html
-|4,49,10,6,1766662711,"~/index.html"
-'2  2  41  ~/Dockerfile
-|4,50,2,41,1766661805,"~/Dockerfile"
-'3  10  6  ~/index.html
-|4,51,10,6,1766661795,"~/index.html"
+|4,49,10,6,1766663680,"~/index.html"
+'2  2  41  ~/docker-ci/Dockerfile
+|4,50,2,41,1766663159,"~/docker-ci/Dockerfile"
+'3  10  6  ~/docker-ci/index.html
+|4,51,10,6,1766663129,"~/docker-ci/index.html"
 '4  2  41  ~/Dockerfile
-|4,52,2,41,1766661647,"~/Dockerfile"
-'5  2  41  ~/Dockerfile
-|4,53,2,41,1766661647,"~/Dockerfile"
-'6  10  6  ~/index.html
-|4,54,10,6,1766661604,"~/index.html"
-'7  10  6  ~/index.html
-|4,55,10,6,1766661604,"~/index.html"
-'8  3  40  ~/Dockerfile
-|4,56,3,40,1766656212,"~/Dockerfile"
-'9  2  40  ~/Dockerfile
-|4,57,2,40,1766656212,"~/Dockerfile"
+|4,52,2,41,1766662740,"~/Dockerfile"
+'5  10  6  ~/index.html
+|4,53,10,6,1766662711,"~/index.html"
+'6  2  41  ~/Dockerfile
+|4,54,2,41,1766661805,"~/Dockerfile"
+'7  2  41  ~/Dockerfile
+|4,55,2,41,1766661805,"~/Dockerfile"
+'8  10  6  ~/index.html
+|4,56,10,6,1766661795,"~/index.html"
+'9  10  6  ~/index.html
+|4,57,10,6,1766661795,"~/index.html"
 
 # Jumplist (newest first):
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766663694,"~/Dockerfile"
+-'  10  6  ~/index.html
+|4,39,10,6,1766663680,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766663680,"~/index.html"
+-'  2  41  ~/docker-ci/Dockerfile
+|4,39,2,41,1766663159,"~/docker-ci/Dockerfile"
+-'  2  41  ~/docker-ci/Dockerfile
+|4,39,2,41,1766663159,"~/docker-ci/Dockerfile"
+-'  2  41  ~/docker-ci/Dockerfile
+|4,39,2,41,1766663159,"~/docker-ci/Dockerfile"
+-'  2  41  ~/docker-ci/Dockerfile
+|4,39,2,41,1766663159,"~/docker-ci/Dockerfile"
+-'  1  0  ~/docker-ci/Dockerfile
+|4,39,1,0,1766663139,"~/docker-ci/Dockerfile"
+-'  1  0  ~/docker-ci/Dockerfile
+|4,39,1,0,1766663139,"~/docker-ci/Dockerfile"
+-'  1  0  ~/docker-ci/Dockerfile
+|4,39,1,0,1766663139,"~/docker-ci/Dockerfile"
+-'  1  0  ~/docker-ci/Dockerfile
+|4,39,1,0,1766663139,"~/docker-ci/Dockerfile"
+-'  10  6  ~/docker-ci/index.html
+|4,39,10,6,1766663129,"~/docker-ci/index.html"
+-'  10  6  ~/docker-ci/index.html
+|4,39,10,6,1766663129,"~/docker-ci/index.html"
+-'  10  6  ~/docker-ci/index.html
+|4,39,10,6,1766663129,"~/docker-ci/index.html"
+-'  10  6  ~/docker-ci/index.html
+|4,39,10,6,1766663129,"~/docker-ci/index.html"
+-'  10  6  ~/docker-ci/index.html
+|4,39,10,6,1766663129,"~/docker-ci/index.html"
+-'  10  6  ~/docker-ci/index.html
+|4,39,10,6,1766663129,"~/docker-ci/index.html"
+-'  10  6  ~/docker-ci/index.html
+|4,39,10,6,1766663129,"~/docker-ci/index.html"
+-'  10  6  ~/docker-ci/index.html
+|4,39,10,6,1766663129,"~/docker-ci/index.html"
+-'  1  0  ~/docker-ci/index.html
+|4,39,1,0,1766663105,"~/docker-ci/index.html"
+-'  1  0  ~/docker-ci/index.html
+|4,39,1,0,1766663105,"~/docker-ci/index.html"
+-'  1  0  ~/docker-ci/index.html
+|4,39,1,0,1766663105,"~/docker-ci/index.html"
+-'  1  0  ~/docker-ci/index.html
+|4,39,1,0,1766663105,"~/docker-ci/index.html"
+-'  1  0  ~/docker-ci/index.html
+|4,39,1,0,1766663105,"~/docker-ci/index.html"
+-'  1  0  ~/docker-ci/index.html
+|4,39,1,0,1766663105,"~/docker-ci/index.html"
+-'  1  0  ~/docker-ci/index.html
+|4,39,1,0,1766663105,"~/docker-ci/index.html"
+-'  1  0  ~/docker-ci/index.html
+|4,39,1,0,1766663105,"~/docker-ci/index.html"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766662740,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766662740,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766662740,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766662740,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766662740,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766662740,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766662740,"~/Dockerfile"
 -'  2  41  ~/Dockerfile
 |4,39,2,41,1766662740,"~/Dockerfile"
 -'  10  6  ~/index.html
 |4,39,10,6,1766662711,"~/index.html"
 -'  10  6  ~/index.html
 |4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766662711,"~/index.html"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
+-'  2  41  ~/Dockerfile
+|4,39,2,41,1766661805,"~/Dockerfile"
 -'  2  41  ~/Dockerfile
 |4,39,2,41,1766661805,"~/Dockerfile"
 -'  2  41  ~/Dockerfile
@@ -67,193 +191,69 @@
 |4,39,10,6,1766661795,"~/index.html"
 -'  10  6  ~/index.html
 |4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
+-'  10  6  ~/index.html
+|4,39,10,6,1766661795,"~/index.html"
 -'  2  41  ~/Dockerfile
 |4,39,2,41,1766661647,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766661647,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766661647,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766661647,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1766661622,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1766661622,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1766661622,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1766661622,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1766661622,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1766661622,"~/Dockerfile"
--'  1  0  ~/Dockerfile
-|4,39,1,0,1766661622,"~/Dockerfile"
--'  10  6  ~/index.html
-|4,39,10,6,1766661604,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766661604,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766661604,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766661604,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766661604,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766661604,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766661604,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766661604,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1766661577,"~/index.html"
--'  3  40  ~/Dockerfile
-|4,39,3,40,1766656212,"~/Dockerfile"
--'  3  40  ~/Dockerfile
-|4,39,3,40,1766656212,"~/Dockerfile"
--'  3  40  ~/Dockerfile
-|4,39,3,40,1766656212,"~/Dockerfile"
--'  2  40  ~/Dockerfile
-|4,39,2,40,1766656212,"~/Dockerfile"
--'  2  40  ~/Dockerfile
-|4,39,2,40,1766656212,"~/Dockerfile"
--'  3  40  ~/Dockerfile
-|4,39,3,40,1766656212,"~/Dockerfile"
--'  2  40  ~/Dockerfile
-|4,39,2,40,1766656212,"~/Dockerfile"
--'  2  40  ~/Dockerfile
-|4,39,2,40,1766656212,"~/Dockerfile"
--'  3  40  ~/Dockerfile
-|4,39,3,40,1766656212,"~/Dockerfile"
--'  3  40  ~/Dockerfile
-|4,39,3,40,1766656212,"~/Dockerfile"
--'  2  40  ~/Dockerfile
-|4,39,2,40,1766656212,"~/Dockerfile"
--'  2  40  ~/Dockerfile
-|4,39,2,40,1766656212,"~/Dockerfile"
--'  3  40  ~/Dockerfile
-|4,39,3,40,1766656212,"~/Dockerfile"
--'  2  40  ~/Dockerfile
-|4,39,2,40,1766656212,"~/Dockerfile"
--'  2  40  ~/Dockerfile
-|4,39,2,40,1766656212,"~/Dockerfile"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  19  6  ~/index.html
-|4,39,19,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  10  6  ~/index.html
-|4,39,10,6,1766656187,"~/index.html"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
--'  2  41  ~/Dockerfile
-|4,39,2,41,1766656056,"~/Dockerfile"
 
 # History of marks within files (newest to oldest):
 
 > ~/Dockerfile
-	*	1766662736	0
+	*	1766663690	0
 	"	2	41
 	^	2	42
 	.	2	41
@@ -261,7 +261,23 @@
 	+	2	41
 
 > ~/index.html
-	*	1766662697	0
+	*	1766663676	0
+	"	10	6
+	^	10	7
+	.	10	6
+	+	19	6
+	+	10	6
+
+> ~/docker-ci/Dockerfile
+	*	1766663157	0
+	"	2	41
+	^	2	42
+	.	2	41
+	+	3	41
+	+	2	41
+
+> ~/docker-ci/index.html
+	*	1766663127	0
 	"	10	6
 	^	10	7
 	.	10	6
@@ -281,20 +297,6 @@
 	^	2	42
 	.	2	41
 	+	2	41
-
-> ~/docker-ci/Dockerfile
-	*	1766652293	0
-	"	2	41
-	^	2	42
-	.	2	41
-	+	2	41
-
-> ~/docker-ci/index.html
-	*	1766652166	0
-	"	10	6
-	^	10	7
-	.	10	6
-	+	10	6
 
 > ~/docker-app/Dockerfile
 	*	1766650357	0
